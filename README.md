@@ -17,6 +17,10 @@ For those of you that miss the NoPixel inspired design that came with lj-menu yo
 # Previews
 ### NP theme
 ![NP theme](https://user-images.githubusercontent.com/91661118/149427905-f8c78303-5731-4ac6-8b0f-3ad10569345a.PNG)
+### Discord dark theme
+![Discord Dark](https://user-images.githubusercontent.com/91661118/149597600-cc74f1c8-cd24-4a05-8564-a1ff89e689ef.PNG)
+### Discord light theme
+![Discord Light](https://user-images.githubusercontent.com/91661118/149597595-eceb10d8-d610-45ff-83f8-f8a98dd1fd46.PNG)
 
 
 # Change Logs
