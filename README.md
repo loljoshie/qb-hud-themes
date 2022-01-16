@@ -24,9 +24,9 @@ For those of you that miss the NoPixel inspired design that came with lj-menu yo
 ### Purple theme
 ![Purple theme](https://i.imgur.com/a1NBR2D.png)
 ### DarkBlue theme
-![DarkBlue theme](https://i.imgur.com/QiMgKgH.png)
+![Dark Blue theme](https://i.imgur.com/QiMgKgH.png)
 ### DarkBlue theme
-![BlackRed theme](https://i.imgur.com/feISfCg.png)
+![Black Red theme](https://i.imgur.com/feISfCg.png)
 
 # Change Logs
 ### 1.0
