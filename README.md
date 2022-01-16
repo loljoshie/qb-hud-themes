@@ -6,7 +6,8 @@ Join my Discord laboratory for updates, support, and special early testing!
 <br>
 https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
 
-For those of you that miss the NoPixel inspired design that came with lj-menu you can now replace the exisiting styles.css with these provided styles (only NP theme is available right now but more are coming soon ❤️)
+A whole bunch of community made themes for QBCore's newest qb-hud menu and YOU can also contribute your design as well! Just make sure when you send in a Pull Request; everything is contained in the style.css that should be the ONLY file being added and provide a preview picture inside the readme just like all the other themes! ❤️ 
+(Yes, the orginial NP theme design I created for lj-menu is in here as well.
 
 # Dependencies
 * [qbcore framework](https://github.com/qbcore-framework) 
