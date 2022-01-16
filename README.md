@@ -22,10 +22,11 @@ For those of you that miss the NoPixel inspired design that came with lj-menu yo
 ### Discord light theme
 ![Discord Light](https://user-images.githubusercontent.com/91661118/149597595-eceb10d8-d610-45ff-83f8-f8a98dd1fd46.PNG)
 ### Purple theme
-![Purple theme](https://i.imgur.com/tdwmt4A.png)
+![Purple theme](https://i.imgur.com/a1NBR2D.png)
 ### DarkBlue theme
-![Darkblue theme](https://i.imgur.com/ct9KevT.png)
-
+![DarkBlue theme](https://i.imgur.com/QiMgKgH.png)
+### DarkBlue theme
+![BlackRed theme](https://i.imgur.com/feISfCg.png)
 
 # Change Logs
 ### 1.0
