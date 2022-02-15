@@ -22,10 +22,6 @@ A whole bunch of community made themes for QBCore's newest qb-hud menu and YOU c
 ![Discord Dark](https://user-images.githubusercontent.com/91661118/149597600-cc74f1c8-cd24-4a05-8564-a1ff89e689ef.PNG)
 ### Discord light theme
 ![Discord Light](https://user-images.githubusercontent.com/91661118/149597595-eceb10d8-d610-45ff-83f8-f8a98dd1fd46.PNG)
-### Purple theme
-![Purple theme](https://i.imgur.com/tdwmt4A.png)
-### Dark blue theme
-![Darkblue theme](https://i.imgur.com/ct9KevT.png)
 
 
 # Change Logs
