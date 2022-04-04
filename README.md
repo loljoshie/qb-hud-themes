@@ -4,7 +4,7 @@
 
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
+https://discord.gg/ljlabs (without-vanity url: https://discord.gg/HH6uTcBfew)
 
 A whole bunch of community made themes for QBCore's newest qb-hud menu and YOU can also contribute your design as well! Just make sure when you send in a Pull Request; everything is contained in the style.css that should be the ONLY file being added and provide a preview picture inside the readme just like all the other themes! ❤️ 
 (Yes, the orginial NP theme design I created for lj-menu is in here as well.
